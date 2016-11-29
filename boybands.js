@@ -27,7 +27,7 @@ for (var i = 0; i < bands.length; i++) {
 
 
   // Add the veggie names into the correct <div>
-  currentVeggie += "<p>" + vegetables[i] + "</p>" ;
+  currentVeggie += "<ul>" + vegetables[i] + "</ul>" ;
 
 }
 
